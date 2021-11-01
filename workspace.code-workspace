@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../LoRaWAN/TTGO_LoRa32/TTN_TTGOLora32"
+		},
+		{
+			"name": "ESP32-Paxcounter",
+			"path": "../LoRaWAN/ESP32-Paxcounter"
+		}
+	],
+	"settings": {}
+}
